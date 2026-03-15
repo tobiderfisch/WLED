@@ -28,7 +28,7 @@ class WordClockUsermod : public Usermod
     bool nord = false;
     
     // defines for mask sizes
-    #define maskSizeLeds        114
+    #define maskSizeLeds        121
     #define maskSizeMinutes     12
     #define maskSizeMinutesMea  12
     #define maskSizeHours       6
@@ -131,7 +131,7 @@ class WordClockUsermod : public Usermod
       0,0,0,0,0,0,0,0,0,0,0,
       0,0,0,0,0,0,0,0,0,0,0,
       0,0,0,0,0,0,0,0,0,0,0,
-      0,0,0,0
+      0,0,0,0,0,0,0,0,0,0,0
     };
 
     // update led mask
